@@ -69,7 +69,7 @@ $ git clone https://github.com/Lino09/gdl-test
 ```
 
 ```sh
-cd wordle
+cd gdl-test
 ```
 
 ### Install

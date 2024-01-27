@@ -28,7 +28,7 @@ Project to create a notification component
 
 <!-- Link a la pagina -->
 
-[Live Demo]()
+[Live Demo](https://lino09.github.io/gdl-test/)
 
 ## Built with
 
